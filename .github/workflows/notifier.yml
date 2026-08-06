@@ -1,4 +1,4 @@
-name: Roblox Online Notifier
+ name: Roblox Online Notifier
  
 on:
   schedule:
